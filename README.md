@@ -1,1 +1,10 @@
-# job-portal
+# Job Portal  App
+### Running Instruction
+Go to terminal and use following command
+
+```
+npm install
+npm run dev
+```
+
+then visit https://localhost:3000
